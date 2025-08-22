@@ -1,5 +1,5 @@
 # Hi, I'm Max
-Junior Full Stack Developer/Engineer
+Trainee-level Full Stack Developer/Engineer
 Passionate about building web apps from front to back 🚀
 
 JavaScript | React | Node.js | Angular
